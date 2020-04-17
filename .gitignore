@@ -1,0 +1,9 @@
+.classpath
+.project
+.settings
+target
+work
+.idea
+junit-tasktop-publisher.iml
+.factorypath
+.vscode
